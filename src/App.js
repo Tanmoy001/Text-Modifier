@@ -51,7 +51,7 @@ import {
   }
   render(
     <BrowserRouter>
-            <NavBar title="CreameLayer"home="Home"mode={mode} togglemode={togglemode} About="About"/> 
+            <NavBar title="Online Text Modifier"home="Home"mode={mode} togglemode={togglemode} About="About"/> 
             <Alert alert={alert}/>
             <div className='container'>
       <Routes>
